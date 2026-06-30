@@ -1,0 +1,6 @@
+{
+  "name": "GameVerse",
+  "description": "A modern Google Play Store style gaming portal featuring over 200 high-quality curated web games, categories, instant search, smart sorting, light/dark modes, neon theme, and clean UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
